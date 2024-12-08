@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Energy Broker Australia",
         "navLinks": [
             {
                 "type": "Link",
